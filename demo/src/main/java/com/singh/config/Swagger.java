@@ -10,6 +10,7 @@ import springfox.documentation.spring.web.plugins.Docket;
 import springfox.documentation.swagger2.annotations.EnableSwagger2;
 /*
  * Basic: http://localhost:8080/swagger-ui.html
+ * TODO: Make url custom
  */
 @Configuration
 @EnableSwagger2
